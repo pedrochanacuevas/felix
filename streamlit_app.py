@@ -1,5 +1,5 @@
 import streamlit as st
-from awslib import s3_contents
+#from awslib import s3_contents
 from textlib import droplines
 from linelib import simple_recorder 
 ##############################################
